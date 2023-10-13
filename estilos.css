@@ -1,0 +1,226 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.colunaeolica {
+    background-image: url("Imgs/fundoinicio.webp");
+    height: 700px;
+    padding: 1px;
+   
+    
+}
+.finallogo  {
+    background-image: url("Imgs/fundoinicio.webp");
+    height: 100px;
+    padding-left: 5%;
+    
+}
+
+.colunasolar {
+    background-image: url("Imgs/fundoplacasolar1.png") ;
+    height: 700px;
+    padding: 1px;
+    background-size: cover;
+}
+
+.logo {
+    text-align: center;
+}
+
+.hotbar {
+    height: 100px;
+    background-image: url("Imgs/fundoinicio.webp");
+    
+
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #037258;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #035340;
+  }
+
+  .dados {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 10px;
+    color: #767676;
+    background-color: white;
+    border: 1px solid #767676;
+    cursor: pointer;
+    height: auto;
+  }
+
+.menubotoes {
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.botoes {
+    font-size: 30px;
+    text-decoration: none;
+    color: #767676;
+    justify-content: space-evenly;
+}
+
+.paddingcontainer {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.containerimagens {
+    display: flex;
+    
+}
+.separadordoscontainer {
+    padding-top: 4%;
+}
+.containertitulo {
+    flex: 1;
+    display: flex;
+    
+}
+
+.containerfrases {
+    flex: 1;
+    
+}
+
+.imagensredondas {
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-size: cover;
+}
+
+.titulofrase {
+    text-align: center;
+    color: #e6e6e6;
+    font-size: 34px;
+}
+
+.frase {
+    color: #ffffff;
+    padding-left: 12px ;
+    padding-right: 15px;
+    font-size: 18px;
+}
+
+.paragrafo1 {   
+    color: #2c3963;
+    font-size: 34px;
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 54px;
+    padding-top: 8px;                                       /* cinza : #e6e6e6 - azul : #2c3963  verde: #037258 */
+    color: #2c3963;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo1 {
+    text-align: center;
+    font-size: 54px;
+    padding-top: 8px;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sobrenos {
+    width: 35%;
+    height: 50%;
+    position: absolute;
+    display: inline-block;
+    padding: 20px;
+    padding-left: 10%;
+}
+
+.equipe {
+    height: 70%;
+    width: 25%;
+    display:inline-block;
+    margin-left: 60%;
+    border: 6px solid #037258;
+    background-size: cover;
+    background-image: url("Imgs/equipe.png");
+    
+
+}
+
+.containerclientes {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 21%;
+    padding-right: 25%;
+}
+
+.clientes {
+    width: 100px;
+    height: 100px;
+
+}
+
+.escrituraselos {
+    padding: auto;
+    padding-left: 25%;
+    padding-right: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 17px;
+}
+
+
+li {
+    margin: 30px;
+}
+
+.containerhowork{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.youtubevideo {
+    
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+
+.howork {
+    
+    color: #e6e6e6;
+    font-size: 11px;
+    
+}
+
+
+.espacamento {
+    height: 20px;
+    background-color: #037258;
+    
+
+}
+
+
